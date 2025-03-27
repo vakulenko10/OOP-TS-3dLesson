@@ -4,6 +4,8 @@
 
 This project contains multiple classes and functionalities that simulate real-world systems such as a library, a bank account, a cinema, an order system, and a to-do list. The code demonstrates object-oriented programming concepts such as classes, methods, and object manipulation in TypeScript.
 
+## ZADANIE #6 JEST NA BRANCHU zadanie6 !!!
+
 ## How to Run the Project
 
 1. **Clone the repository** to your local machine:
