@@ -85,3 +85,5 @@ The `CarRentalSystem` class manages the rental system. It has the following meth
   - `displayAvailableCars()`: Displays a list of all available cars in the system.
   - `reserveCarForCustomer(customer: Customer, car: Car, days: number)`: Reserves a car for a customer by creating a `Rental` and adding it to the customer's list of rentals.
 
+
+
